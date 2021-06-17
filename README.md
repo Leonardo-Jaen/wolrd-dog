@@ -9,5 +9,5 @@ site para cachorros de teste
 
 :package: nova funcionalidade
 :up: atualicação
-:beatle: correção de bug
-:checkered: release
+:alien: correção de bug
+:smiley: release
