@@ -8,6 +8,9 @@ site para cachorros de teste
 ## Icones
 
 :package: nova funcionalidade
+
 :up: atualicação
+
 :alien: correção de bug
+
 :smiley: release
